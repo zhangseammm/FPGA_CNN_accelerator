@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 de:/logos/cul_adder/source
+vacc_multi_3
+!s110 1677168157
+!i10b 1
+!s100 KH1nAR8onA<CaD9@C:[]21
+!s11b VZ8;R?GWom=dP]f88PhW:2
+Il0A2R32E1>:e`XP9`@7Gg2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1647182916
+8e:\logos\cul_adder\source\adder.v
+Fe:\logos\cul_adder\source\adder.v
+L0 7
+Z2 OL;L;2019.2;69
+r1
+!s85 0
+31
+!s108 1677168156.000000
+!s107 e:\logos\cul_adder\source\adder.v|
+!s90 -nologo|-work|work|e:\logos\cul_adder\source\adder.v|
+!i113 0
+Z3 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vcal_relu
+!s110 1677150657
+!i10b 1
+!s100 [>GCDAl]BJKE0G`6LcH4X2
+!s11b =Ud3GO]XB@G6oPH77hdVo1
+ILX9ic44WiALCb0:KLQMWm0
+R1
+R0
+w1653802954
+8e:\logos\cul_adder\source\cal_relu.v
+Fe:\logos\cul_adder\source\cal_relu.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1677150657.000000
+!s107 e:\logos\cul_adder\source\cal_relu.v|
+!s90 -nologo|-work|work|e:\logos\cul_adder\source\cal_relu.v|
+!i113 0
+R3
+R4
+vgenerate_ctrl_signal
+!s110 1677150681
+!i10b 1
+!s100 0MMSo=fkc1lT@f8Sdg^A93
+!s11b 4IjEH1IXgn0HhYCF0?6?Y3
+IQ_l2[[enJfzOZ>A9aHh9c0
+R1
+R0
+w1653801177
+8e:\logos\cul_adder\source\generate_ctrl_signal.v
+Fe:\logos\cul_adder\source\generate_ctrl_signal.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1677150681.000000
+!s107 e:\logos\cul_adder\source\generate_ctrl_signal.v|
+!s90 -nologo|-work|work|e:\logos\cul_adder\source\generate_ctrl_signal.v|
+!i113 0
+R3
+R4
